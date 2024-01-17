@@ -1,0 +1,14 @@
+.item{
+    margin: 10px; 
+    text-align: center; 
+    background-color: rgba(0, 255, 55, 0.81);
+
+}
+.link{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    
+}
+.boton{
+    background-color: rgb(124, 243, 98);
+}
