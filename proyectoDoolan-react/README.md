@@ -1,8 +1,17 @@
-# React + Vite
+# Nombre del Proyecto
+MdMotos
+## Descripción
+El proyecto mdMotos es una aplicación web diseñada para desarrollo personal como profesional. Permite a los usuarios navegar en un Ecomerce basada en una tienda de motos , donde se puede explorar diferentes productos, filtrando por categorias o clickeando sobre un producto , ver sus detalles, y tambien tiene integrado un carrito de compras y un checkout para que el usuario brinde su contacto donde esa informacion es guardada en una base de datos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## tecnologias usadas
+Frontend: HTML5, CSS3, JavaScript (Framework: React.js)
+Backend: Node.js
+base de datos: fireBase
+otras herramientas : git,react-router-dom,react-boostrap
 
-Currently, two official plugins are available:
+## instalacion
+`npm install`
+`npm run dev`
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Contacto
+email : doolanmaxi@gmail.com
