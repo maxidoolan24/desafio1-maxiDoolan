@@ -1,0 +1,10 @@
+.item-list-container{
+    background-color: rgb(17, 15, 46);
+    display: flex;
+    flex-wrap: wrap;
+     
+    min-height: 100vh;
+    
+    
+}
+
